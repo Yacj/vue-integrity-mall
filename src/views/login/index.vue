@@ -58,7 +58,7 @@
                 const json = {
                         id: 4,
                         telephone: "13922222922",
-                        member_name: "李四",
+                        member_name: "John",
                         sex: 1,
                         address: "",
                         avatar: "",
